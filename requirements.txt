@@ -1,0 +1,8 @@
+Flask==3.0.3
+hyperopt==0.2.7
+joblib==1.4.2
+pandas==2.2.3
+pyspark==3.5.3
+scikit_learn==1.5.2
+SQLAlchemy==2.0.35
+xgboost==2.1.2
